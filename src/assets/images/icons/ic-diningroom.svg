@@ -1,0 +1,21 @@
+<svg width="52" height="48" viewBox="0 0 52 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1" fill="white">
+<path d="M13 46C10.7909 46 9 44.2091 9 42L9 27C9 26.4477 9.44772 26 10 26H16C16.5523 26 17 26.4477 17 27V42C17 44.2091 15.2091 46 13 46Z"/>
+</mask>
+<path d="M13 46C10.7909 46 9 44.2091 9 42L9 27C9 26.4477 9.44772 26 10 26H16C16.5523 26 17 26.4477 17 27V42C17 44.2091 15.2091 46 13 46Z" stroke="#152C5B" stroke-width="6" mask="url(#path-1-inside-1)"/>
+<mask id="path-2-inside-2" fill="white">
+<path d="M39 46C36.7909 46 35 44.2091 35 42V27C35 26.4477 35.4477 26 36 26H42C42.5523 26 43 26.4477 43 27V42C43 44.2091 41.2091 46 39 46Z"/>
+</mask>
+<path d="M39 46C36.7909 46 35 44.2091 35 42V27C35 26.4477 35.4477 26 36 26H42C42.5523 26 43 26.4477 43 27V42C43 44.2091 41.2091 46 39 46Z" stroke="#152C5B" stroke-width="6" mask="url(#path-2-inside-2)"/>
+<path d="M8.64377 20.4528C9.11782 19.8511 9.84152 19.5 10.6075 19.5H41.3925C42.1585 19.5 42.8822 19.8511 43.3562 20.4528L45.7199 23.4528C47.0118 25.0926 45.8438 27.5 43.7561 27.5H8.24387C6.15624 27.5 4.98816 25.0926 6.28014 23.4528L8.64377 20.4528Z" stroke="#152C5B" stroke-width="3"/>
+<path d="M17 13V19" stroke="#152C5B" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M35 13V19" stroke="#152C5B" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<mask id="path-6-inside-3" fill="white">
+<path d="M17 14C14.7909 14 13 12.2091 13 10V5C13 4.44772 13.4477 4 14 4H20C20.5523 4 21 4.44771 21 5V10C21 12.2091 19.2091 14 17 14Z"/>
+</mask>
+<path d="M17 14C14.7909 14 13 12.2091 13 10V5C13 4.44772 13.4477 4 14 4H20C20.5523 4 21 4.44771 21 5V10C21 12.2091 19.2091 14 17 14Z" stroke="#FF498B" stroke-width="6" mask="url(#path-6-inside-3)"/>
+<mask id="path-7-inside-4" fill="white">
+<path d="M35 14C32.7909 14 31 12.2091 31 10V5C31 4.44772 31.4477 4 32 4H38C38.5523 4 39 4.44771 39 5V10C39 12.2091 37.2091 14 35 14Z"/>
+</mask>
+<path d="M35 14C32.7909 14 31 12.2091 31 10V5C31 4.44772 31.4477 4 32 4H38C38.5523 4 39 4.44771 39 5V10C39 12.2091 37.2091 14 35 14Z" stroke="#FF498B" stroke-width="6" mask="url(#path-7-inside-4)"/>
+</svg>

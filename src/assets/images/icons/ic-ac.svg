@@ -1,0 +1,9 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.5" y="6.5" width="45" height="17" rx="2.5" stroke="#152C5B" stroke-width="3"/>
+<path d="M2 18L46 18" stroke="#152C5B" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M6 29C6 29 15 36 6 45" stroke="#152C5B" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M12 29C12 29 21 36 12 45" stroke="#152C5B" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M42 29C42 29 33 36 42 45" stroke="#152C5B" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M36 29C36 29 27 36 36 45" stroke="#152C5B" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M20 12H28" stroke="#FF498B" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+</svg>
